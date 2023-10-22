@@ -2,7 +2,7 @@
 
 ### Application Deployment 
 
-https://fluffy-entremet-cebf68.netlify.app/
+https://main--taupe-meerkat-ff7be2.netlify.app/
 
 ### Application Screenshot
 
