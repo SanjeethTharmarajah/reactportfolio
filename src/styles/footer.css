@@ -1,0 +1,100 @@
+:root {
+    --white-soda:#ffffff;
+    --platinum:#E8E9EB;
+    --alabaster:#E0DFD5;
+    --onyx:#313638;
+    --sandy-brown: #F09D51;
+}
+
+.img-link {
+    text-align: center;
+}
+
+.footer-info {
+    font-size: 24px;
+    color: var(--white-soda);
+    font-weight: bold;
+    background-color: var(--platinum);
+    text-align: center;
+}
+
+h1 {
+    margin: auto 30px;
+    padding: 10px;
+    color: var(--onyx);
+    font-weight: bold;
+}
+
+#topics {
+    font-size: small;
+    font-style: italic;
+    color: var(--onyx);
+}
+
+#card-title {
+    margin-top: 10px;
+    color: var(--onyx);
+    text-shadow: 1px 1px 6px var(--sandy-brown);
+}
+
+#footer {
+    padding: 5px;
+    margin-top: 10px;
+    position:relative;
+    bottom:0;
+    right:0;
+    left:0;
+    width:100%;
+}
+
+.icon {
+    padding: 10px;
+}
+
+#contact-section {
+    justify-content: center;
+    margin: 20px;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.error-text {
+    color: var(--white-soda);
+}
+
+#footer {
+    background-image: url("paper.jpg");
+}
+
+#footer .icon {
+    background-color: rgba(0,0,0,0.3);
+    margin-top: 20px;
+    border-radius:100%;
+}
+#footer .icon:hover{
+    background-color: rgba(250,250,250,0.3);
+    margin-top: 20px;
+    border-radius:100%;
+}
+
+#footer p {
+    background-color: rgba(0,0,0,0.3);
+    margin-top: 8px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: var(--white-soda);
+}
+
+#react-icon {
+    background-color: rgba(0,0,0,0.3);
+    border-radius:100%;
+}
+
+@media all and (max-width: 600px) {
+    #footer {
+        position:relative;
+    }
+}
+    
