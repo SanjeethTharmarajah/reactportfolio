@@ -2,7 +2,7 @@
 
 ### Application Deployment 
 
-https://priyaravi23.github.io/react-portfolio
+https://fluffy-entremet-cebf68.netlify.app/
 
 ### Application Screenshot
 
