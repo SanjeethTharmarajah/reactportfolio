@@ -19,7 +19,7 @@ export default function Resume() {
         <div className='col'>
             <div className='card'>
                 <div className="header">
-                    <h3>Download Resume: <a href={resume_pdf} download>Sanjeeth.T</a>
+                    <h3>Download Resume: <a href={resume_pdf} target="_blank">Sanjeeth.T</a>
                     </h3>
                 </div>
                 
