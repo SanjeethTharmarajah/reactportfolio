@@ -6,7 +6,8 @@ https://priyaravi23.github.io/react-portfolio
 
 ### Application Screenshot
 
-![](src/assets/images/app-screenshot.png)
+![image](https://github.com/SanjeethTharmarajah/reactportfolio/assets/130941252/93a5cadc-6554-4736-aa37-67aab7cd3357)
+
 
 ### User Story
 
